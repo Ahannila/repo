@@ -1,2 +1,2 @@
-tämä on lapionprojektin toinen osa
-Jota nyt muokkaamme häpeilemättä
+
+Terveisiä nanoeditorista ja githubista.
